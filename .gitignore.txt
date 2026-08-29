@@ -1,0 +1,22 @@
+# Compiled Object files & Executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Visual Studio / VS Code
+.vscode/
+*.vcxproj*
+*.sln
+.vs/
+
+# CLion / CMake
+.idea/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
